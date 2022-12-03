@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+How to use:
+This is fronend UI component with crud/todo table  structure.Use any backend crud app to experience this UI 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
